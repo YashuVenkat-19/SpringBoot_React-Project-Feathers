@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.birdtable {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    border: 5px solid rgb(38, 135, 204);
+    background-color: rgb(143, 218, 241);
+}
+
+td,
+th {
+    text-align: center;
+}
